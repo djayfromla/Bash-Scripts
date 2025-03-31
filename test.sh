@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#This is a test to see how my code will look on Git
+#This is a test script to show some echo and read scripting commands mixed with some math expressions
 
 echo "What is your name?"
 
